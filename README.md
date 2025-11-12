@@ -31,7 +31,7 @@ BSNER-BW is a unified, reproducible NER resource integrating all components from
 | Domain Split | 73% news, 27% government |
 | Annotation | IOB scheme, 6 entity types, $\kappa = 0.84$ |
 | Auxiliary | 750-entry gazetteer |
-|*Format | [CoNLL-U](https://universaldependencies.org/format.html) |
+| Format | [CoNLL-U](https://universaldependencies.org/format.html) |
 | License | [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Release | June 2026 |
 | URL | `(https://github.com/omogolomat/BSNER-BW)` |
